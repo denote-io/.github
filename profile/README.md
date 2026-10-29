@@ -1,6 +1,6 @@
 # Denote
 
-Denote is part of [Synctune](https://github.com/synctune-io), focused on local-first software for writing, connected notes, and personal knowledge. We make room for clear thinking while keeping your notes in files you own.
+Denote is an open source software by [Synctune](https://github.com/synctune-io), focused on local-first software for writing, connected notes, and personal knowledge. We make room for clear thinking while keeping your notes in files you own.
 
 ## Core projects
 
@@ -28,5 +28,7 @@ Denote is part of [Synctune](https://github.com/synctune-io), focused on local-f
 | [denote-text-styling](https://github.com/denote-io/denote-text-styling) | Portable text highlights and colors. |
 | [denote-time-tracking](https://github.com/denote-io/denote-time-tracking) | Timers, countdowns, and note-related time tracking. |
 | [denote-reference](https://github.com/denote-io/denote-reference) | A development reference for the plugin contract and lifecycle. |
+
+More plugins coming soon.
 
 Repository links use their planned organization locations, including the planned SDK and plugin split. Some may be private or pending transfer.
