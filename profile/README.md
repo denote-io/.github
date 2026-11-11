@@ -31,5 +31,3 @@ Denote is an open source software by [Synctune](https://github.com/synctune-io),
 | [denote-reference](https://github.com/denote-io/denote-reference) | A development reference for the plugin contract and lifecycle. |
 
 More plugins coming soon.
-
-Repository links use their planned organization locations, including the planned SDK and plugin split. Some may be private or pending transfer.
