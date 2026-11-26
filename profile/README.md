@@ -8,6 +8,7 @@ Denote is an open source software by [Synctune](https://github.com/synctune-io),
 | --- | --- |
 | [denote-denote.synctune.it](https://github.com/denote-io/denote.synctune.it) | Denote website and docs. |
 | [denote](https://github.com/denote-io/denote) | A local-first Markdown workspace for macOS, Windows, and Linux. |
+| [denote-sync](https://github.com/denote-io/denote-sync) | Multi-device sync for Denote. |
 | [denote-plugin-sdk](https://github.com/denote-io/denote-plugin-sdk) | The SDK for building Denote plugins. |
 
 ## Plugins
